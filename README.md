@@ -13,6 +13,12 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </div>
+
+## what have I done so far? 💬
+<div> 
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=yendavavlis&show_icons=true" alt="JMatoso" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yendavavlis&show_icons=truei&layout=compact&langs_count=7&"/>
+ </div>
 <!--
 **YendavAvlis/YendavAvlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
