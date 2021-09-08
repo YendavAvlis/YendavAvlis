@@ -16,7 +16,7 @@
 
 ## what have I done so far? 💬
 <div> 
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=yendavavlis&show_icons=true" alt="JMatoso" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=yendavavlis&show_icons=true" alt="YendavAvlis" />
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yendavavlis&show_icons=truei&layout=compact&langs_count=7&"/>
  </div>
 <!--
