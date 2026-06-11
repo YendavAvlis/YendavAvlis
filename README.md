@@ -1,15 +1,11 @@
 ### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> !!!
 
-<p>I am Vadney Da Silva. I am constantly learning and trying to learn new things, but my main focus is Javascript...<p>
+<p>I am currently advancing my expertise by preparing for thr CompTIA Security+ certification and building a strong foundation in cybersecurity. My areas of focus include analyzing system and network logs and working with Security Information and Event Management (SIEM) tools such as Splunk and ELK Stack.<p>
 
   
 ### What do I know? 🤔
 <div>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+...
 </div><br>
 <!--
 **YendavAvlis/YendavAvlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
